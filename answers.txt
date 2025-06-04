@@ -5,3 +5,7 @@ Answer: Because we need an easy way to keep track of version history.
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Healthcare
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging preserves branches while rebase rewrites history.
