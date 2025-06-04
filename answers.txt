@@ -9,3 +9,7 @@ Answer: Healthcare
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging preserves branches while rebase rewrites history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Earning credit and lerarning about ML
